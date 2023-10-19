@@ -1,0 +1,24 @@
+Tipo de Cuenta: Alumno
+Nombre: Juan Daniel Marroquin Villatoro
+Usuario: Dani323
+E-mail: danimarroquin.1@gmail.com
+Telefono: 31248716
+DPI: 3063
+Fecha de Nacimiento: Marzo 10, 2004
+Contrasena: 0015c115d0081864fcf5c68731b1619770774968ce2df314e46ec6ce9583f508
+--------------------------------
+Tipo de Cuenta: Administrador
+Nombre: Admin Robles
+Usuario: AdminED
+E-mail: Admin@gmail.com
+Telefono: 20082012
+DPI: 3063
+Fecha de Nacimiento: Enero 10, 1990
+Contrasena: 8bc8137cd659d2ee9632d8e3a8455a92ab1e99b13c934dcf5ecd6c09e83c1187
+--------------------------------
+Tipo de Cuenta: Catedratico
+Usuario: Elvis
+Apellido: Robles
+DPI: 3063
+Contrasena: 8357c6359eb10506459b00248e567f5a6cd1f4867a9f0b3e4ea12e3771481ebb
+
