@@ -1,4 +1,11 @@
-Tipo de Cuenta: Alumno
+Tipo de Cuenta: Catedratico
+Estado de Cuenta: Desbloqueado
+Nombre: Sebastian
+Apellido: Perez
+DPI: 49494939
+Contrasena: 13203303fe776fdc39a81c5eed45e7ab41a5183a78fbcf851a20c04947ced3f4
+--------------------------------
+Tipo de Cuenta: Administrador
 Nombre: Juan Daniel Marroquin Villatoro
 Usuario: Dani323
 E-mail: danimarroquin.1@gmail.com
@@ -7,18 +14,36 @@ DPI: 3063
 Fecha de Nacimiento: Marzo 10, 2004
 Contrasena: 0015c115d0081864fcf5c68731b1619770774968ce2df314e46ec6ce9583f508
 --------------------------------
-Tipo de Cuenta: Administrador
-Nombre: Admin Robles
-Usuario: AdminED
-E-mail: Admin@gmail.com
-Telefono: 20082012
-DPI: 3063
-Fecha de Nacimiento: Enero 10, 1990
-Contrasena: 8bc8137cd659d2ee9632d8e3a8455a92ab1e99b13c934dcf5ecd6c09e83c1187
+Tipo de Cuenta: Alumno
+Estado de Cuenta: Desbloqueado
+Nombre: Elvis Yoander Robles Valiente
+Usuario: Robles32
+E-mail: Yoander282002@gmail.com
+Telefono: 40452407
+DPI: 3063578009
+Fecha de Nacimiento: Noviembre 28, 2000
+Imagen: imagen_Robles32.png
+Contrasena: 17301c22168b690b4f44f4063f0fa44390a38a093c54071d5bcfe7336b5c3e70
 --------------------------------
-Tipo de Cuenta: Catedratico
-Usuario: Elvis
-Apellido: Robles
-DPI: 3063
-Contrasena: 8357c6359eb10506459b00248e567f5a6cd1f4867a9f0b3e4ea12e3771481ebb
-
+Tipo de Cuenta: Alumno
+Estado de Cuenta: Desbloqueado
+Nombre: Daniel Villatoro
+Usuario: Villa12
+E-mail: Villa.1@gmail.com
+Telefono: 31248716
+DPI: 3063789030
+Fecha de Nacimiento: Marzo 10, 2004
+Imagen: Image_Users/imagen_Villa12.png
+Contrasena: 1b03737751cbcaf45778078b08b59eab05ba95f1e5e522667ea6a5ad80b2876b
+--------------------------------
+Tipo de Cuenta: Alumno
+Estado de Cuenta: Desbloqueado
+Nombre: Elvis
+Usuario: Vale
+E-mail: Elvis.1@gmail.com
+Telefono: 31248716
+DPI: 2824094949
+Fecha de Nacimiento: Enero 1, 1990
+Imagen: Image_Users/imagen_Vale.png
+Contrasena: 9baec912ad2f193d24eef2ae9b20bc50edd64a495f935d5ae67324e206b76e06
+--------------------------------
